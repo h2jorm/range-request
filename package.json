@@ -1,0 +1,12 @@
+{
+  "name": "range-request",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/leeching/range-request.git",
+  "author": "leeching <leeching.fx@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.14.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
